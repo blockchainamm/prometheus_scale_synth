@@ -2,7 +2,7 @@
 
 This python script emulates a Prometheus scale synthesizer
 
-The frequencies in Hz of ascending notes for C4 in the prometheus scale\
+The frequencies in Hz of ascending notes for C4 as root note in the prometheus scale\
 261.6256\
 293.6648\
 329.6276\
