@@ -11,7 +11,7 @@ The frequencies in Hz of ascending notes for C4 as root note in the prometheus s
 466.1638\
 523.2511
 
-The frequencies in Hz of descending notes for C4 in the prometheus scale\
+The frequencies in Hz of descending notes for C4 as root note in the prometheus scale\
 523.2511\
 466.1638\
 440.0\
