@@ -90,7 +90,7 @@ def load_notes(notestep, notestep1, notescale):
         tones_fwd.append(tone)
     
     print()
-    print(f'The frequencies in Hz of descending notes for {notescale} in the prometheus scale')
+    print(f'The frequencies in Hz of descending notes for {notescale} as root note in the prometheus scale')
 
     for note in rev_interval: 
         notestep1 = notestep1 - note
