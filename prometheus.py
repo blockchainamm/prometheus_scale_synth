@@ -74,7 +74,7 @@ def load_notes(notestep, notestep1, notescale):
     rev_interval = [0, 2, 1, 3, 2, 2, 2]
     tones_fwd, tones_rev = [], []
     
-    print(f'The frequencies in Hz of ascending notes for {notescale} in the prometheus scale')
+    print(f'The frequencies in Hz of ascending notes for {notescale} as root note in the prometheus scale')
     for note in notes_interval: 
         # print the frequency ascending notes of the scale        
         if len(note_name[notestep]) == 2:
